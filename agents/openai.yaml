@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canva 商品12宮格"
+  short_description: "依參考版型製作A4商品12宮格，使用饅頭黑體、放大品名型號及圓角色標"
+  default_prompt: "使用 $canva-product-grid，依現有版型與我提供的圖片資料夾製作新的商品12宮格頁面。"
